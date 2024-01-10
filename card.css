@@ -1,0 +1,13 @@
+:root {
+   --card-height:300px;
+   --card-width: cal(var(--card-height)/1.5);
+
+}
+
+body{
+
+    width: 100vw;
+    height: 100vh;
+    margin: 0;
+    display: flex;
+}
